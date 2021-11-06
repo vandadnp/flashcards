@@ -1,6 +1,7 @@
 # Dart Flash Cards Release Notes
 
 - [Dart Flash Cards Release Notes](#dart-flash-cards-release-notes)
+  - [v2.0](#v20)
   - [v1.1](#v11)
   - [1.0](#10)
 
