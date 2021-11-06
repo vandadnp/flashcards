@@ -7,6 +7,7 @@
 
 ## v2.0
   - extend the amount of flash cards from 16 to 64!
+  - print version is available as well where you can download separate PDF files per flash card in order to be able to print them
 ## v1.1
   - cover Dart 2.14.4, up from 2.14.2
   - fix my email link
